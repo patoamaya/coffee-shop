@@ -1,8 +1,13 @@
 import "./Footer.css"
+import { Outlet } from "react-router-dom"
+
 const Footer = () => {
   return (
     <div>
-        <h1>Footer</h1>
+       <Outlet/>
+        <footer>
+          <h1>"footer"</h1>
+        </footer>
     </div>
   )
 }
