@@ -4,12 +4,27 @@
     flex-direction: column;
     height: 100vh;
     width: 100%;
-    /* background-color: red; */
 }
 
 header{
     display: flex;
-    background-color: blue;
+    background-color: #9BA0A1;
     height: 12vh;
+    border-bottom: .2rem solid #5e2d0cec;
+    /* justify-content: space-around; */
 
+}
+
+.logo{
+    display: flex;
+    padding: .2rem .2rem;
+}
+
+.logo img{
+    border-radius: .5rem;
+    cursor: pointer;
+}
+.logo img:hover{
+    transform: scale(1.02);
+    transition: ease-in-out .3s;
 }
