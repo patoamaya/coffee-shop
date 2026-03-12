@@ -1,0 +1,41 @@
+const products = 
+{
+    "cafeteria" :
+        [{
+            "nombre" : "Latte",
+            "descripcion" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi.",
+            "img": "https://res.cloudinary.com/dx4qsxcb7/image/upload/v1773273074/kris-tian-mmOwoqb6XB4-unsplash_1_hr086a.jpg"
+        },
+        {
+            "nombre" : "Capuccino",
+            "descripcion" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi.",
+            "img" : "https://res.cloudinary.com/dx4qsxcb7/image/upload/v1773273074/luiz-carlos-santi-Pn6wH7ii-x4-unsplash_sjs7uh.jpg"
+        },
+        {
+            "nombre" : "Chocolate",
+            "descripcion" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi.",
+            "img" : "https://res.cloudinary.com/dx4qsxcb7/image/upload/v1773273747/jez-timms-NZMfceSGoQY-unsplash_wly4qe.jpg"
+            
+        }],
+        "pasteleria":
+        [{
+            "nombre" : "Cheesecake",
+            "descripcion" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi.",
+            "img": "https://res.cloudinary.com/dx4qsxcb7/image/upload/v1773273960/kofi-okyere-xx1USWIvIFc-unsplash_j328df.jpg"
+        },
+        {
+            "nombre" : "Carrot cake",
+            "descripcion" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi.",
+            "img" : "https://res.cloudinary.com/dx4qsxcb7/image/upload/v1773274324/k8-rqY2pJRV3_Q-unsplash_vmzbtj.jpg"
+        },
+        {
+            "nombre" : "Brownie",
+            "descripcion" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus pariatur eum doloremque. Dicta, neque laborum Odit, culpa quasi non nemo voluptas eligendi.",
+            "img" : "https://res.cloudinary.com/dx4qsxcb7/image/upload/v1773274470/american-heritage-chocolate-4AJt27x1LAw-unsplash_o85fa2.jpg"
+        }
+    
+    ]
+
+}
+
+export default products

@@ -17,11 +17,11 @@ header{
 
 .logo{
     display: flex;
-    padding: .2rem .2rem;
+    padding: .1rem .1rem;
 }
 
 .logo img{
-    border-radius: .5rem;
+    /* border-radius: .5rem; */
     cursor: pointer;
 }
 .logo img:hover{
