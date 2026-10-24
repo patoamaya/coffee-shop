@@ -8,16 +8,19 @@
 
 header{
     display: flex;
-    background-color: #9BA0A1;
+    /* background-color: #9BA0A1;> */
+        background-color: rgba(0, 0, 0, 0.921);
+
     height: 12vh;
-    border-bottom: .2rem solid #5e2d0cec;
+    /* border-bottom: .2rem solid #5e2d0cec; */
+    border-bottom: .1rem solid #F8EAC5;
     /* justify-content: space-around; */
 
 }
 
 .logo{
     display: flex;
-    padding: .1rem .1rem;
+    /* padding: .01rem .1rem 0 0; */
 }
 
 .logo img{
